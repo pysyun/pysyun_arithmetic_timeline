@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='pysyun_arithmetic',
-    version='1.0.0',
+    name='pysyun_arithmetic_timeline',
+    version='1.0.1',
     author='Illia Tsokolenko',
     author_email='illiatea2@gmail.com',
-    description='Arithmetic operations for time series data processing',
-    py_modules=['pysyun_arithmetic'],
+    description='Storage.Timeline arithmetic operations',
+    py_modules=['pysyun_arithmetic_timeline'],
     packages=find_packages(),
     install_requires=[
         'pysyun_chain @ git+https://github.com/pysyun/pysyun_chain.git'

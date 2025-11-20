@@ -1,4 +1,4 @@
-# ArithmeticTimeline
+# Pysyun ArithmeticTimeline
 
 `ArithmeticTimeline` is a class that extends the functionality of `Chainable` to perform arithmetic operations on processed timeline data.
 
@@ -106,3 +106,4 @@ parallel_calc = (
 - Operations are executed in the order they were added
 - All arithmetic operations are performed pairwise for values with matching timestamps
 - The class maintains immutability - each operation creates a new object
+

@@ -1,0 +1,2 @@
+git+https://github.com/pysyun/pysyun_chain.git
+setuptools
